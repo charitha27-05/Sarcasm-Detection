@@ -4,12 +4,13 @@
 
 ---
 
-## 🌐 Live Application Link
+## 🌐 Live Application Deployment
 
-- **Live Web Application:** [https://metal-socks-think.loca.lt](https://metal-socks-think.loca.lt) *(Tunnel password/IP: `202.53.81.124`)*
-- **Backend Health Check:** [https://metal-socks-think.loca.lt/api/health](https://metal-socks-think.loca.lt/api/health)
+- **Permanent Cloud Deployment:** Deployable 24/7 on [Render](https://render.com/) with one click using `render.yaml` or as a Docker container.
+- **Backend Health Check Endpoint:** `/api/health`
+- **Prediction API Endpoint:** `/api/predict`
 
-*(Deployable 24/7 on [Render](https://render.com/) with one click via `render.yaml`).*
+> **Note on LocalTunnel:** The previous temporary tunnel URL (`metal-socks-think.loca.lt`) was ephemeral and expires whenever local tunneling stops. For permanent 24/7 access without requiring a local machine running, follow the Render deployment steps below.
 
 ---
 

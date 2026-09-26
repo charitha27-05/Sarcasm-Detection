@@ -6,11 +6,13 @@
 
 ## 🌐 Live Application Deployment
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/charitha27-05/Sarcasm-Detection)
+
 - **Permanent Cloud Deployment:** Deployable 24/7 on [Render](https://render.com/) with one click using `render.yaml` or as a Docker container.
 - **Backend Health Check Endpoint:** `/api/health`
 - **Prediction API Endpoint:** `/api/predict`
 
-> **Note on LocalTunnel:** The previous temporary tunnel URL (`metal-socks-think.loca.lt`) was ephemeral and expires whenever local tunneling stops. For permanent 24/7 access without requiring a local machine running, follow the Render deployment steps below.
+> **Note on LocalTunnel:** The previous temporary tunnel URL (`metal-socks-think.loca.lt`) was ephemeral and expires whenever local tunneling stops. For permanent 24/7 access without requiring a local machine running, click the **Deploy to Render** button above or follow the setup instructions below.
 
 ---
 
